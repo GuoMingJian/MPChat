@@ -1,0 +1,16 @@
+"api_loading" = "加载中...";
+"no_data" = "暂无数据";
+"cancel" = "取消";
+"confirm" = "确定";
+"select_date" = "选择日期";
+"load_fail_try_again" = "加载失败，点击重试";
+"just_now" = "刚刚";
+"minutes_ago" = "分钟前";
+"hours_ago" = "小时前";
+"days_ago" = "天前";
+"months_ago" = "个月前";
+"years_ago" = "年前";
+"network_error" = "网络连接失败，请检查网络";
+"load_system_file_error" = "加载系统文件出错！";
+"unknown_error" = "未知错误";
+"no_permission" = "无权限";

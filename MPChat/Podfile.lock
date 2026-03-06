@@ -1,0 +1,87 @@
+PODS:
+  - AliyunOSSiOS (2.11.2)
+  - EmptyDataSet-Swift (5.0.0)
+  - HXPhotoPicker (5.0.5):
+    - HXPhotoPicker/Default (= 5.0.5)
+  - HXPhotoPicker/Camera (5.0.5):
+    - HXPhotoPicker/Camera/Lite (= 5.0.5)
+    - HXPhotoPicker/Camera/Location (= 5.0.5)
+  - HXPhotoPicker/Camera/Lite (5.0.5):
+    - HXPhotoPicker/Core
+  - HXPhotoPicker/Camera/Location (5.0.5):
+    - HXPhotoPicker/Camera/Lite
+  - HXPhotoPicker/Core (5.0.5):
+    - HXPhotoPicker/Resources
+  - HXPhotoPicker/Default (5.0.5):
+    - HXPhotoPicker/Camera
+    - HXPhotoPicker/Editor
+    - HXPhotoPicker/Picker
+  - HXPhotoPicker/Editor (5.0.5):
+    - HXPhotoPicker/EditorView
+  - HXPhotoPicker/EditorView (5.0.5):
+    - HXPhotoPicker/Core
+  - HXPhotoPicker/Picker (5.0.5):
+    - HXPhotoPicker/Core
+  - HXPhotoPicker/Resources (5.0.5)
+  - KeychainAccess (4.2.2)
+  - MJKit (1.0.0):
+    - AliyunOSSiOS (~> 2.11.2)
+    - EmptyDataSet-Swift (~> 5.0.0)
+    - HXPhotoPicker (~> 5.0.5)
+    - KeychainAccess (~> 4.2.2)
+    - MJRefresh (~> 3.7.9)
+    - MobileVLCKit (~> 3.6.0)
+    - NVActivityIndicatorView (~> 5.2.0)
+    - SDWebImage (~> 5.21.1)
+    - SnapKit (~> 5.7.1)
+    - Then (~> 3.0.0)
+    - ZLPhotoBrowser (~> 4.5.8)
+  - MJRefresh (3.7.9)
+  - MobileVLCKit (3.6.0)
+  - NVActivityIndicatorView (5.2.0):
+    - NVActivityIndicatorView/Base (= 5.2.0)
+  - NVActivityIndicatorView/Base (5.2.0)
+  - SDWebImage (5.21.6):
+    - SDWebImage/Core (= 5.21.6)
+  - SDWebImage/Core (5.21.6)
+  - SnapKit (5.7.1)
+  - Then (3.0.0)
+  - ZLPhotoBrowser (4.5.8):
+    - ZLPhotoBrowser/Core (= 4.5.8)
+  - ZLPhotoBrowser/Core (4.5.8)
+
+DEPENDENCIES:
+  - MJKit (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - AliyunOSSiOS
+    - EmptyDataSet-Swift
+    - HXPhotoPicker
+    - KeychainAccess
+    - MJKit
+    - MJRefresh
+    - MobileVLCKit
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SnapKit
+    - Then
+    - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 6d6b668b82ac0c0ea2313412bcb5530b42ec97ab
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  HXPhotoPicker: 73952d15fa0ea68a4757b786a506bdf1e44895c4
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  MJKit: 930e37745304937a3be4f9ac8a53ab1ce7af9aff
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  MobileVLCKit: 8fe98ae53b7464f32e4bdf527cc7d53053e4d3a5
+  NVActivityIndicatorView: fe52a6a68664c2df8991d7d9e3d86d8d19453c53
+  SDWebImage: 1bb6a1b84b6fe87b972a102bdc77dd589df33477
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  Then: 844265ae87834bbe1147d91d5d41a404da2ec27d
+  ZLPhotoBrowser: 52c8b386e3f9a7885676027c529a015147df502c
+
+PODFILE CHECKSUM: 6c30cc9963ce75780c429c1441c8a9955bfea7d0
+
+COCOAPODS: 1.16.2

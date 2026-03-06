@@ -1,0 +1,16 @@
+"api_loading" = "載入中...";
+"no_data" = "暫無資料";
+"cancel" = "取消";
+"confirm" = "確定";
+"select_date" = "選擇日期";
+"load_fail_try_again" = "載入失敗，點擊重試";
+"just_now" = "剛剛";
+"minutes_ago" = "分鐘前";
+"hours_ago" = "小時前";
+"days_ago" = "天前";
+"months_ago" = "個月前";
+"years_ago" = "年前";
+"network_error" = "網路連接失敗，請檢查網路";
+"load_system_file_error" = "載入系統檔案出錯！";
+"unknown_error" = "未知錯誤";
+"no_permission" = "無權限";

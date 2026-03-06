@@ -1,0 +1,16 @@
+"api_loading" = "Loading...";
+"no_data" = "No Data";
+"cancel" = "Cancel";
+"confirm" = "Confirm";
+"select_date" = "Select Date";
+"load_fail_try_again" = "Loading failed. Click to retry.";
+"just_now" = "Just now";
+"minutes_ago" = "Minutes ago";
+"hours_ago" = "Hours ago";
+"days_ago" = "Days ago";
+"months_ago" = "Months ago";
+"years_ago" = "Years ago";
+"network_error" = "Network connection failed. Please check your network.";
+"load_system_file_error" = "load system file error!";
+"unknown_error" = "Unknown error";
+"no_permission" = "No permission";
