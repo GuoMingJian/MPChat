@@ -17,22 +17,9 @@
 		F11573C295AF95DE0CBCD251 /* Pods-MPChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MPChat.debug.xcconfig"; path = "Target Support Files/Pods-MPChat/Pods-MPChat.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		02A6F5472F5AC5BB00F503BB /* Exceptions for "MPChat" folder in "MPChat" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 02A6F5342F5AC5BA00F503BB /* MPChat */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		02A6F5372F5AC5BA00F503BB /* MPChat */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				02A6F5472F5AC5BB00F503BB /* Exceptions for "MPChat" folder in "MPChat" target */,
-			);
 			path = MPChat;
 			sourceTree = "<group>";
 		};
@@ -74,7 +61,6 @@
 				F11573C295AF95DE0CBCD251 /* Pods-MPChat.debug.xcconfig */,
 				28DA4F5C17BA5A2BAA76FF3B /* Pods-MPChat.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -186,9 +172,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-MPChat/Pods-MPChat-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-MPChat/Pods-MPChat-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
