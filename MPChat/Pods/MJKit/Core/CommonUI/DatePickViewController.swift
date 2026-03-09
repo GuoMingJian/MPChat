@@ -75,7 +75,12 @@ public class DatePickViewController: UIViewController {
         titleLabel.textAlignment = .center
         
         datePicker.datePickerMode = .date
-        datePicker.preferredDatePickerStyle = .wheels
+        if #available(iOS 13.4, *) {
+            datePicker.preferredDatePickerStyle = .wheels
+        } else {
+            // Fallback on earlier versions
+            // iOS 13.4 以下使用旧样式
+        }
         datePicker.locale = Locale(identifier: "en_US")
     }
     
